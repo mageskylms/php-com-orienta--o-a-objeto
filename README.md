@@ -4,10 +4,10 @@
 
 ## CURSOS ALURA: 
 
-*PHP: criando sua aplicação
-*PHP: evolua seu conhecimento e organize seu código
-*PHP: conheça a programação Orientada a Objetos
-*PHP: use Interfaces, Namespaces, Traits e Exceções </p>
+* PHP: criando sua aplicação
+* PHP: evolua seu conhecimento e organize seu código
+* PHP: conheça a programação Orientada a Objetos
+* PHP: use Interfaces, Namespaces, Traits e Exceções </p>
 
 <hr>
 
